@@ -2,7 +2,7 @@
 
 🙋‍♀️ Hi everyone! This is a team formed by middle school students.
 
-🌈 Contribution guidelines - If you want to join us, please contact xuchengmin39@qq.com.
+🌈 Contribution guidelines - If you want to join us, please contact xuchengmin39@gmail.com
 
 👩‍💻 Useful resources - We collected some useful docs, if you wanted to know more, please visted our repository.
 
